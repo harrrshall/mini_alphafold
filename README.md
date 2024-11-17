@@ -1,4 +1,4 @@
-# Mini AlphaFold: A Toy Model for Protein Folding 🧬
+# Mini AlphaFold 🧬
 
 This repository provides a simplified, educational implementation of AlphaFold, the groundbreaking protein structure prediction model. It's perfect for learning core concepts of protein folding and exploring associated machine learning techniques.  It includes a toy protein dataset and the building blocks for a simplified model.
 
