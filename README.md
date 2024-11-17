@@ -20,9 +20,7 @@ This tutorial demonstrates how to use the provided scripts to generate, preproce
 1. Create a virtual environment (recommended):
    ```bash
    python3 -m venv venv
-content_copy
-Use code with caution.
-Markdown
+
 
 Activate the virtual environment:
 
